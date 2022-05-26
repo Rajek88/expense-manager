@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expense-manager/static/css/main.f6d7a2bb.chunk.css",
+    "main.js": "/expense-manager/static/js/main.cb6d47a3.chunk.js",
+    "main.js.map": "/expense-manager/static/js/main.cb6d47a3.chunk.js.map",
+    "runtime-main.js": "/expense-manager/static/js/runtime-main.9aae7032.js",
+    "runtime-main.js.map": "/expense-manager/static/js/runtime-main.9aae7032.js.map",
+    "static/js/2.51441117.chunk.js": "/expense-manager/static/js/2.51441117.chunk.js",
+    "static/js/2.51441117.chunk.js.map": "/expense-manager/static/js/2.51441117.chunk.js.map",
+    "index.html": "/expense-manager/index.html",
+    "static/css/main.f6d7a2bb.chunk.css.map": "/expense-manager/static/css/main.f6d7a2bb.chunk.css.map",
+    "static/js/2.51441117.chunk.js.LICENSE.txt": "/expense-manager/static/js/2.51441117.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aae7032.js",
+    "static/js/2.51441117.chunk.js",
+    "static/css/main.f6d7a2bb.chunk.css",
+    "static/js/main.cb6d47a3.chunk.js"
+  ]
+}
