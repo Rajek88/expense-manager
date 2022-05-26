@@ -11,6 +11,9 @@ html {
 body {
   margin: 0;
   background-image: linear-gradient(to top right, #2e2e2e, #510674);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .title {
